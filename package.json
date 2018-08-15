@@ -1,0 +1,23 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdennison1/TestNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdennison1/TestNodeJs/issues"
+  },
+  "homepage": "https://github.com/Jdennison1/TestNodeJs#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
